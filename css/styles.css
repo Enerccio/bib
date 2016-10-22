@@ -1,0 +1,25 @@
+body {
+  background-color: powderblue;
+}
+
+.clickableDiv {
+  cursor: pointer;
+}
+
+.lastEntry {
+  float: right;
+}
+
+.basketContainer {
+  background-color: white;
+  height: 600px;
+  overflow: scroll;
+}
+
+.basket {
+  background-color: yellow;
+}
+
+.resizableV {
+  resize: vertical;
+}
